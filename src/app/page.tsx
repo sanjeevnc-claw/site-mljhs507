@@ -5,7 +5,7 @@ export default function Home() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanjeev NC - Product Management Blog</title>
+    <title>Sanjeev NC - Marketing Blog</title>
     <style>
         * {
             margin: 0;
@@ -168,9 +168,9 @@ export default function Home() {
         <div class="container">
             <div class="hero">
                 <h1>Sanjeev NC</h1>
-                <div class="subtitle">Product Management Expert & Strategic Thinker</div>
+                <div class="subtitle">Marketing Expert & Strategic Growth Specialist</div>
                 <div class="bio">
-                    Welcome to my corner of the internet where I share insights on product strategy, user experience, market dynamics, and the art of building products that matter.
+                    Welcome to my corner of the internet where I share insights on marketing strategy, brand building, customer acquisition, and the art of driving growth that matters.
                 </div>
             </div>
         </div>
@@ -181,20 +181,20 @@ export default function Home() {
             <h2 class="section-title">Latest Posts</h2>
             
             <article class="post-preview">
-                <a href="#" class="post-title">The Product Manager's Guide to Strategic Roadmapping</a>
-                <p class="post-excerpt">How to balance stakeholder needs, technical constraints, and market opportunities while building a roadmap that actually drives results...</p>
+                <a href="#" class="post-title">The Modern Marketer's Guide to Multi-Channel Attribution</a>
+                <p class="post-excerpt">How to track customer journeys across touchpoints and measure what really drives conversions in today's complex marketing landscape...</p>
                 <div class="post-date">Coming Soon</div>
             </article>
             
             <article class="post-preview">
-                <a href="#" class="post-title">User Research That Actually Influences Product Decisions</a>
-                <p class="post-excerpt">Moving beyond vanity metrics and surface-level feedback to uncover insights that transform your product strategy...</p>
+                <a href="#" class="post-title">Building Brand Authority in Crowded Markets</a>
+                <p class="post-excerpt">Moving beyond advertising noise to create authentic connections that turn prospects into loyal customers and advocates...</p>
                 <div class="post-date">Coming Soon</div>
             </article>
             
             <article class="post-preview">
-                <a href="#" class="post-title">Building Products in Uncertain Markets</a>
-                <p class="post-excerpt">Strategies for product development when customer needs are evolving and competitive landscapes shift rapidly...</p>
+                <a href="#" class="post-title">Growth Marketing in Economic Uncertainty</a>
+                <p class="post-excerpt">Strategies for sustainable customer acquisition when budgets are tight and ROI expectations are higher than ever...</p>
                 <div class="post-date">Coming Soon</div>
             </article>
         </section>
@@ -203,20 +203,20 @@ export default function Home() {
             <h2 class="section-title">What I Write About</h2>
             <div class="topic-grid">
                 <div class="topic-card">
-                    <h3>Product Strategy</h3>
-                    <p>Framework development, competitive analysis, and long-term planning</p>
+                    <h3>Marketing Strategy</h3>
+                    <p>Campaign development, market positioning, and long-term growth planning</p>
                 </div>
                 <div class="topic-card">
-                    <h3>User Experience</h3>
-                    <p>Research methodologies, design thinking, and user-centered development</p>
+                    <h3>Brand Building</h3>
+                    <p>Identity creation, messaging frameworks, and customer perception management</p>
                 </div>
                 <div class="topic-card">
-                    <h3>Market Analysis</h3>
-                    <p>Opportunity assessment, trend identification, and positioning strategies</p>
+                    <h3>Customer Acquisition</h3>
+                    <p>Channel optimization, conversion strategies, and retention tactics</p>
                 </div>
                 <div class="topic-card">
-                    <h3>Team Leadership</h3>
-                    <p>Cross-functional collaboration, stakeholder management, and team dynamics</p>
+                    <h3>Marketing Analytics</h3>
+                    <p>Performance measurement, attribution modeling, and data-driven decisions</p>
                 </div>
             </div>
         </section>
